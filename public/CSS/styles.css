@@ -21,7 +21,9 @@ a{
 li{
     list-style: none;
 }
-/* HEADER */
+
+
+
 header{
     background-color: #EAC926;
     padding: 20px 10px 0 10px;
@@ -225,7 +227,9 @@ header .burger{
         font-size: 2vw;
     }
 }
-/* MAIN */
+
+
+
 .home main .main{
     width: 90%;
     margin: auto;
@@ -284,7 +288,10 @@ header .burger{
     font-size: 16px;
     display: none;
 }
-/* FOOTER */
+
+
+
+
 footer{
     background-color: #ffffff;
 }
@@ -300,7 +307,9 @@ footer article i{
 footer p{
     padding: 0px 10px 10px;
 }
-/*LOGIN*/
+
+
+
 .login main form {
     width: 80%;
     margin: 9vw auto 50px auto;
@@ -333,7 +342,7 @@ footer p{
 .login main form button:hover{
     background-color: #0022AA;
 }
-/*REGISTER*/
+
 .registro form{
     width: 80%;
     margin: 10% auto;
